@@ -1,0 +1,2 @@
+staging area adds one file to the commit at a time.
+it provides a buffer to make mistakes before making the commit.
