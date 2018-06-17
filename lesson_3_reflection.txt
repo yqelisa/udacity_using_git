@@ -5,3 +5,9 @@ A: We can create a branch for a major change, and make all
 the commits that contribute to this change to the same
 branch. In this way we'll see how different game plans result
 in different outcomes of the project.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: Diagrams helps me understand the sequence of commits, and
+which commits are on the same branch. It provides a better logical
+structure of the program.
