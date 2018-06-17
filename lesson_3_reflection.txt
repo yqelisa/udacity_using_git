@@ -1,0 +1,7 @@
+Q: What are some situations when branches would be helpful
+in keeping your history organized? How would branches help?
+
+A: We can create a branch for a major change, and make all
+the commits that contribute to this change to the same
+branch. In this way we'll see how different game plans result
+in different outcomes of the project.
