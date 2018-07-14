@@ -6,8 +6,18 @@ the commits that contribute to this change to the same
 branch. In this way we'll see how different game plans result
 in different outcomes of the project.
 
+
 Q: How do the diagrams help you visualize the branch structure?
 
 A: Diagrams helps me understand the sequence of commits, and
 which commits are on the same branch. It provides a better logical
 structure of the program.
+
+
+Q: What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+A: The result is that changes from the merged branch will be introduced
+into the checked-out branch. We represent the changes using
+asteroids and the existing contents in sequence to make distinction
+of what's changed and what are not.
