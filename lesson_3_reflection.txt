@@ -21,3 +21,13 @@ A: The result is that changes from the merged branch will be introduced
 into the checked-out branch. We represent the changes using
 asteroids and the existing contents in sequence to make distinction
 of what's changed and what are not.
+
+
+Q: What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+
+A: Automatic merging can save the developer's time from making simple
+merges. However, git is not intelligent enough to handle the case
+when both of the branch had changes in one section. In this case,
+we need to assess which change should be brought into the branch and 
+manually commit.

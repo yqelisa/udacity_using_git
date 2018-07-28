@@ -1,0 +1,8 @@
+Q: When would you want to use a remote repository rather than keeping
+all your work local?
+
+A: When I collaborate with others, other people can easily access my
+repository from their computer if we use remote repository.
+
+Besides, storing files in remote repository acts as a back up when
+your own machine is malfunctioning.
