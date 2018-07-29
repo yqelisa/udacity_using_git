@@ -6,3 +6,10 @@ repository from their computer if we use remote repository.
 
 Besides, storing files in remote repository acts as a back up when
 your own machine is malfunctioning.
+
+Q: Why might you want to always pull changes manually rather than
+having Git automatically stay up-to-date with your remote repository?
+
+A: There may be some changes from the remote repository that we don't
+want to merge into our local repository. Manually pull changes adds
+control to the merging process.
