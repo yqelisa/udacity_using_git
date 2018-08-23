@@ -13,3 +13,26 @@ having Git automatically stay up-to-date with your remote repository?
 A: There may be some changes from the remote repository that we don't
 want to merge into our local repository. Manually pull changes adds
 control to the merging process.
+
+Q: Describe the differences between forks, clones, and branches. When would
+you use one instead of another?
+
+A: Forking is for copying from the source repository and getting updated
+contents as the source repository. Cloning is for pulling content from
+remote repository to your local repository. Branches is a concept when
+you want to conduct version control and you can use different Branches
+to store different versions of a group of scripts.
+
+Q: What is the benefit of having a copy of the last known state of the
+remote stored locally?
+
+A: So we can develop in a synced environment and comply with the master
+branch. When stored locally, we don't need to rely on internet connection
+when we want to merge the branches.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+A: We can collaborate using Google Doc, which is a web application that shares
+content synchronously. But without Git or Github, it's going to be harder to do
+that.
